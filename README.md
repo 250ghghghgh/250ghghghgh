@@ -39,33 +39,43 @@
 
 ## 💻 프로젝트
 
-### [냠냠](https://github.com/250ghghghgh/yam-yam.git) (2024.11 ~ 2024.12)
--강남·역삼 직장인을 위한 식당 추천 및 메뉴 커뮤니티
+## 🍽 냠냠  
+> 강남·역삼 직장인을 위한 식당 추천 및 메뉴 커뮤니티  
+> 기간: 2024.11 ~ 2024.12  
+> [🔗 GitHub 링크](https://github.com/250ghghghgh/yam-yam.git)
 
--**기술스택** 
-    -Java, JSP/Servlet, MyBatis, Oracle, jQuery(Ajax), HTML5, CSS
+### 🛠 기술 스택
+- Java, JSP/Servlet, MyBatis, Oracle
+- HTML5, CSS, jQuery(AJAX)
 
--**담당업무**
-    -개발환경 구축
-    -Database 설계 및 구축
-    -식당정보, 메뉴등록, 오늘의 메뉴(랜덤-룰렛, 제비뽑기), 관리자메뉴(식당관리, 등록, 오늘의 메뉴 관리), 식당관리자메뉴(내 식당 관리), 메인페이지 구현
+### ⚙ 주요 기능
+- 식당 정보 및 메뉴 등록
+- 오늘의 메뉴 추천(룰렛/제비뽑기)
+- 관리자 메뉴 (식당 관리, 메뉴 관리 등)
+- 식당 관리자 전용 페이지, 메인 페이지 구현
 
--**성과**: ERD 기반 설계 → 안정적인 SQL 처리 및 구현 능력 강화
+### ✅ 성과
+- ERD 기반 DB 설계 및 안정적인 SQL 처리
+- 사용자 편의를 고려한 기능 흐름 설계 경험
 
 </br>
 <br>
 
-### [250MM](https://github.com/250ghghghgh/250mm.git) (2024.12 ~ 2025.01)
-- 의류 쇼핑몰 및 의류관리 서비스 웹
- 
--**기술스택**
-    -Java, JSP/Servlet, Spring Boot (Spring Framework/Boot/Security), MyBatis, HTML5, CSS, JavaScript, jQuery (AJAX), Bootstrap
-    
--**담당업무**
-    -개발환경 구축
-    -Database 설계 및 구축
-    -뽀송송 의류관리 서비스 구현: 회원 인증 및 마이페이지(서비스 신청 내역, 진행 상태, 리뷰), 후기 및 후기모음(사진 첨부 및 별점, 후기 내용 리뷰 등록), 의류 관리 및 보관(서비스 선택, 장바구니, 결제 등)
-    
--**성과**: Spring 동작원리 이해, JavaScript로 실시간 가격 변동 구현
+## 🧥 250MM  
+> 의류 쇼핑몰 및 의류 관리 서비스 웹 애플리케이션  
+> 기간: 2024.12 ~ 2025.01  
+> [🔗 GitHub 링크](https://github.com/250ghghghgh/250mm.git)
 
+### 🛠 기술 스택
+- Java, JSP/Servlet, Spring Boot, Spring Security, MyBatis
+- HTML5, CSS, JavaScript, jQuery(AJAX), Bootstrap
+
+### ⚙ 주요 기능
+- 회원 인증, 마이페이지 (서비스 신청 내역, 진행 상태, 후기 등록)
+- 후기 기능 (사진 첨부, 별점, 내용 입력 및 조회)
+- 의류 서비스 신청, 장바구니, 결제 기능
+
+### ✅ 성과
+- Spring Boot 구조 및 동작 원리 실무 이해
+- JavaScript를 활용한 실시간 가격 변동 기능 구현
 </br>

@@ -42,7 +42,8 @@
 ### [냠냠](https://github.com/250ghghghgh/yam-yam.git) (2024.11 ~ 2024.12)
 -강남·역삼 직장인을 위한 식당 추천 및 메뉴 커뮤니티
 
--**기술스택**: Java, JSP/Servlet, MyBatis, Oracle, jQuery(Ajax), HTML5, CSS
+-**기술스택** 
+    -Java, JSP/Servlet, MyBatis, Oracle, jQuery(Ajax), HTML5, CSS
 
 -**담당업무**
     -개발환경 구축
@@ -59,11 +60,12 @@
  
 -**기술스택**
     -Java, JSP/Servlet, Spring Boot (Spring Framework/Boot/Security), MyBatis, HTML5, CSS, JavaScript, jQuery (AJAX), Bootstrap
+    
 -**담당업무**
-
-     -개발환경 구축
+    -개발환경 구축
     -Database 설계 및 구축
     -뽀송송 의류관리 서비스 구현: 회원 인증 및 마이페이지(서비스 신청 내역, 진행 상태, 리뷰), 후기 및 후기모음(사진 첨부 및 별점, 후기 내용 리뷰 등록), 의류 관리 및 보관(서비스 선택, 장바구니, 결제 등)
     
 -**성과**: Spring 동작원리 이해, JavaScript로 실시간 가격 변동 구현
+
 </br>
